@@ -1,0 +1,2 @@
+Prefix plugins/Camargo/example
+Plugin Camargo inputfile parameters.txt outputfile camargo.csv
